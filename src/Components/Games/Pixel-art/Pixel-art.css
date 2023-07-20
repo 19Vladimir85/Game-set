@@ -1,0 +1,77 @@
+.home_screen {
+  position: relative;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_text {
+  font-size: 20px;
+  margin: 10px;
+}
+
+p {
+  margin: 1px;
+}
+
+.width {
+  font-size: 13px;
+  margin-left: -5px;
+}
+
+.height {
+  font-size: 13px;
+}
+
+.pixel_game {
+  position: relative;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.pixel {
+  width: 10px;
+  height: 10px;
+}
+
+.btn_rest {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 20px;
+  font-size: 10px;
+}
+
+.colors {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn_png {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 85px;
+  height: 20px;
+  font-size: 10px;
+}
+
+.field_wrapper {
+  border: 1px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: flex;
+}

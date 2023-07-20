@@ -1,0 +1,15 @@
+.header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  height: 65px;
+  background-color: #05a9e4;
+}
+
+.main_logo {
+  text-decoration: none;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 25px;
+}

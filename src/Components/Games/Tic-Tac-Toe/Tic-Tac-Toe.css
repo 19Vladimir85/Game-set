@@ -1,0 +1,28 @@
+.main_screen {
+  position: relative;
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 10px;
+}
+
+.status {
+  font-size: 20px;
+}
+
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+.field {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  font-size: 20px;
+}

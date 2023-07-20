@@ -1,0 +1,40 @@
+.finishGame {
+  position: absolute;
+  top: 70px;
+  right: 670px;
+}
+
+.pexso_btn {
+  position: absolute;
+  top: 95px;
+  right: 740px;
+}
+
+.steps {
+  position: absolute;
+  top: 123px;
+  right: 625px;
+}
+
+.card_pexeso {
+  height: 120px;
+  width: 120px;
+  border: 5px solid green;
+}
+
+.card_zone {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  height: 540px;
+  width: 405px;
+  margin-left: 550px;
+  margin-top: 80px;
+  gap: 5px;
+}
+
+img {
+  height: 120px;
+  width: 120px;
+}

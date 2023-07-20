@@ -1,0 +1,31 @@
+h2 {
+  margin-left: 25px;
+  color: white;
+}
+
+.statistics {
+  width: 90px;
+  height: 25px;
+  margin-top: 20px;
+  color: #05a9e4;
+  font-weight: 700;
+}
+
+.enter {
+  width: 65px;
+  height: 25px;
+  margin-top: 20px;
+  margin-right: 40px;
+  color: #05a9e4;
+  font-weight: 700;
+}
+
+.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
+  grid-gap: 20px;
+}

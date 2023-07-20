@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  background-color: #05a9e4;
+  height: 290px;
+  width: 250px;
+}
+
+.card_image {
+  height: 210px;
+  width: 180px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
